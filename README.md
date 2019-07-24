@@ -1,5 +1,6 @@
 # Android-bango
-Android-bango with 2 different AI
+This is a Gobang game developed on android platform. I have completed two AI algorithms, which are weight method and game tree.
+
 
 ![图片](pic/1.png)
 
